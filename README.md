@@ -23,7 +23,7 @@ The goals of the project are to:
 The dataframe called df had the following variables:  
 
 |Feature|Type|Description|
-|---|---|---|---|
+|---|---|---|
 |title|*object*|subreddit post titles (before preprocessed)|
 |full_post|object|subreddit full post (in json format for future unpacking)|
 |permalink|object|subreddit permalink for future reference (especially to locate comments related to the post)|

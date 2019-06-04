@@ -1,5 +1,4 @@
-## Project 3: Web APIs & Classification
-Julia Taussig
+## Project 3: Predicting Whether Reddit Posts from Climate Change Believers vs. Climate Change Skeptics Subreddits
 
 ### Background Information: 
 According to digitaltrends.com, Reddit can be boasted as the “front page of the internet.” As of July of 2018, Reddit was the fifth most popular site in the United States, according to Alexa, and the 18th worldwide.  Reddit is a large collection of forums and acts as a place where people can share news and content and/or comment on other people’s posts (Nicol, Will, https://www.digitaltrends.com/web/what-is-reddit/).  Two subreddits (which are specific forums within Reddit) were selected for analysis during this project: r/climate and r/climateskeptics.  The r/climate subreddit defines itself as "a community for truthful science-based news about climate and related politics and activism" (see the community details section of https://www.reddit.com/r/climate).  The r/climateskeptics subreddit defines itself as a place for "questioning climate related environmentalism" ((see the community details section of https://www.reddit.com/r/climateskeptics).  It is assumed that typically global climate change believers post on the r/climate subreddit, and typically global climate change skeptics post on the r/climateskeptics subreddit.
